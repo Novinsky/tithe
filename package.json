@@ -1,5 +1,11 @@
 {
   "name": "tithe",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "^3.0.1",
+    "yarn": "^0.27.5"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.7.1"
+  }
 }
